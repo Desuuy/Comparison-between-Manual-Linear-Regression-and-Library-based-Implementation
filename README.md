@@ -107,6 +107,4 @@ cd Comparison-between-Manual-Linear-Regression-and-Library-based-Implementation
 # Install dependencies
 pip install -r requirements.txt
 
-# Run the scripts or notebooks
-python thermostat_sales_manual.py
-python air_passengers_library.py
+
